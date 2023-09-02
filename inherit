@@ -1,0 +1,7 @@
+from classic import Teacher, Lecturer
+
+teacher1 = Teacher()
+teacher1.learner()
+
+lecturer1 = Lecturer()
+lecturer1.learner()
